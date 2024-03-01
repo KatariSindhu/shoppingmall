@@ -1,0 +1,21 @@
+.firstDiv{
+    color: white;
+    background-image: url(../aesthetic-city-synthwave-wallpaper-with-a-cool-and-vibrant-neon-design-ai-generated-photo.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 150px;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 30px;
+}
+.secDiv{
+    text-align: center;
+}
+.bigDiv{
+    margin: auto;
+    width:300px;
+}
+*{
+    font-family: 'Protest Riot', sans-serif;
+}
